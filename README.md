@@ -100,6 +100,7 @@ We also have a list of <a href="UNMAINTAINED.md">unmaintained projects</a>. If y
 * [OSM Statistics](https://piebro.github.io/openstreetmap-statistics/) - Up-to-date OSM statistics about editor usage, corporate contributions and more.
 * [Bellingcat OpenStreetMap search](https://osm-search.bellingcat.com/) - Web based tool to find geolocation leads by searching for proximate features on OpenStreetMap. ([Source Code](https://github.com/bellingcat/osm-search) / [Article](https://www.bellingcat.com/resources/how-tos/2023/05/08/finding-geolocation-leads-with-bellingcats-openstreetmap-search-tool/))
 * [Ultra](https://overpass-ultra.us/) - Web based tool for making maps with a variety of data APIs such as overpass, postpass, qlever, ohsome, sophox, and more. ([Source Code](https://gitlab.com/trailstash/ultra))
+* [Spraay x402 Gateway](https://docs.spraay.app/#cat-geospatial) - x402 payment API with 12 geospatial endpoints for AI agents: geocoding, reverse geocoding, routing, weather, elevation, isochrone, distance matrix, nearby, and timezone. Uses Nominatim and OSRM under the hood. Pay-per-call in USDC, no API keys.
 
 ### Mobile Tools
 
